@@ -15,7 +15,7 @@
 		"chai": "3.5.0",
 		"mimetype": "0.0.8",
 		"leadfoot": "1.6.6",
-		"digdug": "1.4.0",
+		"digdug": "git://github.com/pigats/digdug",
 		"charm": "0.2.0",
 		"diff": "1.1.0",
 		"glob": "7.0.3"
